@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E9392295-6787-4E19-9F42-D09654EFACD1}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SlowTestsSample", "SlowTestsSample\SlowTestsSample.csproj", "{3DEB427B-AA0C-49C5-876B-332094FF24FF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SlowTestsSample.Tests", "SlowTestsSample.Tests\SlowTestsSample.Tests.csproj", "{ADDD1BAD-56A0-4A20-980B-031F0B651726}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DEB427B-AA0C-49C5-876B-332094FF24FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DEB427B-AA0C-49C5-876B-332094FF24FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DEB427B-AA0C-49C5-876B-332094FF24FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DEB427B-AA0C-49C5-876B-332094FF24FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADDD1BAD-56A0-4A20-980B-031F0B651726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADDD1BAD-56A0-4A20-980B-031F0B651726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADDD1BAD-56A0-4A20-980B-031F0B651726}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADDD1BAD-56A0-4A20-980B-031F0B651726}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BF402E7-8F12-4DAA-86D8-F914E1373604}
+	EndGlobalSection
+EndGlobal
